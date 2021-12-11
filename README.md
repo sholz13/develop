@@ -6,10 +6,11 @@
 ## About
 
 ## Preview
-<img src="Screen Shot 2021-12-11 at 12.18.26 AM" alt="Website Screenshot" width="100%">
+
+<img width="1413" alt="Screen Shot 2021-12-11 at 12 18 26 AM" src="https://user-images.githubusercontent.com/82775553/145665227-bc45207b-6f7b-48e0-850a-c57780532b2d.png">
 
 ## User Story
-<p> A social media webiste updated with attributes and HTML semantic for easir accesibility
+<p> A social media webiste updated with attributes and HTML semantic for easier accesibility
 </p>
 
 ## Made by 
